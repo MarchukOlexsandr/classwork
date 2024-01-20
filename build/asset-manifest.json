@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarchukOlexsandr/classwork/static/css/main.bcf4ec38.css",
+    "main.js": "/MarchukOlexsandr/classwork/static/js/main.55b615ec.js",
+    "index.html": "/MarchukOlexsandr/classwork/index.html",
+    "main.bcf4ec38.css.map": "/MarchukOlexsandr/classwork/static/css/main.bcf4ec38.css.map",
+    "main.55b615ec.js.map": "/MarchukOlexsandr/classwork/static/js/main.55b615ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf4ec38.css",
+    "static/js/main.55b615ec.js"
+  ]
+}
